@@ -28,7 +28,7 @@
     NSLog(@"你好github");
     NSLog(@"你好github");
     NSLog(@"你好github");
-
+    NSLog(@"qwerdf.123");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
